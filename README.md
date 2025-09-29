@@ -42,7 +42,7 @@ Commit and push this Markdown document, along with the screenshots, to your GitH
 ## AZURE SCREEN SHOTS
 
 
-![Assignment](IMAGES\Screenshot_28-9-2025_181454_portal.azure.com.jpeg)
+![Assignment](IMAGES/Screenshot_28-9-2025_181454_portal.azure.com.jpeg)
 
 ![Assignment](IMAGES/Screenshot_28-9-2025_181323_portal.azure.com.jpeg)
 
