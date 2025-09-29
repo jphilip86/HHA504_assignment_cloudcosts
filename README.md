@@ -60,8 +60,6 @@ This document summarizes the exploration of the cost management and billing inte
 
 ## GCP SCREEN SHOTS
 
-![Assignment](IMAGES/Screenshot_28-9-2025_181115_cloud.google.com.jpeg)
-
 ![Assignment](IMAGES/Screenshot_28-9-2025_181018_cloud.google.com.jpeg)
 
 ![Assignment](IMAGES/Screenshot_28-9-2025_175959_console.cloud.google.com.jpeg)
@@ -79,6 +77,8 @@ This document summarizes the exploration of the cost management and billing inte
 ![Assignment](IMAGES/Screenshot_28-9-2025_17516_console.cloud.google.com.jpeg)
 
 ![Assignment](IMAGES/Screenshot_28-9-2025_1805_console.cloud.google.com.jpeg)
+
+![Assignment](IMAGES/Screenshot_28-9-2025_181115_cloud.google.com.jpeg)
 
 
 
