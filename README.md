@@ -42,36 +42,36 @@ Commit and push this Markdown document, along with the screenshots, to your GitH
 ## AZURE SCREEN SHOTS
 
 
-![Assignment](IMAGES\Screenshot_28-9-2025_181454_portal.azure.com.jpeg)
+![Assignment](IMAGES/Screenshot_28-9-2025_181454_portal.azure.com.jpeg)
 
-![Assignment](IMAGES\Screenshot_28-9-2025_181323_portal.azure.com.jpeg)
+![Assignment](IMAGES/Screenshot_28-9-2025_181323_portal.azure.com.jpeg)
 
-![Assignment](IMAGES\Screenshot_28-9-2025_175542_portal.azure.com.jpeg)
+![Assignment](IMAGES/Screenshot_28-9-2025_175542_portal.azure.com.jpeg)
 
-![Assignment](IMAGES\Screenshot_28-9-2025_175451_portal.azure.com.jpeg)
+![Assignment](IMAGES/Screenshot_28-9-2025_175451_portal.azure.com.jpeg)
 
-![Assignment](IMAGES\Screenshot_28-9-2025_174949_portal.azure.com.jpeg)
+![Assignment](IMAGES/Screenshot_28-9-2025_174949_portal.azure.com.jpeg)
 
 ![Assignment]()
 
 ## GCP SCREEN SHOTS
 
-![Assignment](IMAGES\Screenshot_28-9-2025_181115_cloud.google.com.jpeg)
+![Assignment](IMAGES/Screenshot_28-9-2025_181115_cloud.google.com.jpeg)
 
-![Assignment](IMAGES\Screenshot_28-9-2025_181018_cloud.google.com.jpeg)
+![Assignment](IMAGES/Screenshot_28-9-2025_181018_cloud.google.com.jpeg)
 
-![Assignment](IMAGES\Screenshot_28-9-2025_175959_console.cloud.google.com.jpeg)
+![Assignment](IMAGES/Screenshot_28-9-2025_175959_console.cloud.google.com.jpeg)
 
 ![Assignment](IMAGES\Screenshot_28-9-2025_175929_console.cloud.google.com.jpeg)
 
-![Assignment](IMAGES\Screenshot_28-9-2025_18853_console.cloud.google.com.jpeg)
+![Assignment](IMAGES/Screenshot_28-9-2025_18853_console.cloud.google.com.jpeg)
 
-![Assignment](IMAGES\Screenshot_28-9-2025_18719_console.cloud.google.com.jpeg)
+![Assignment](IMAGES/Screenshot_28-9-2025_18719_console.cloud.google.com.jpeg)
 
-![Assignment](IMAGES\Screenshot_28-9-2025_18719_console.cloud.google.com.jpeg)
+![Assignment](IMAGES/Screenshot_28-9-2025_18719_console.cloud.google.com.jpeg)
 
-![Assignment](IMAGES\Screenshot_28-9-2025_18519_console.cloud.google.com.jpeg)
+![Assignment](IMAGES/Screenshot_28-9-2025_18519_console.cloud.google.com.jpeg)
 
-![Assignment](IMAGES\Screenshot_28-9-2025_17516_console.cloud.google.com.jpeg)
+![Assignment](IMAGES/Screenshot_28-9-2025_17516_console.cloud.google.com.jpeg)
 
-![Assignment](IMAGES\Screenshot_28-9-2025_1805_console.cloud.google.com.jpeg)
+![Assignment](IMAGES/Screenshot_28-9-2025_1805_console.cloud.google.com.jpeg)
